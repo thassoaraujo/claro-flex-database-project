@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="rw_wallet_lab@sit" group="Real Wave SIT | Lab" uuid="7524d6c2-f732-499a-a28c-f1b419b5b5c1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_wallet_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_user_manager_lab@sit" group="Enviroment SIT | Lab" uuid="3b51c551-3c0c-482f-a77e-6bbe6e4fdec2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_user_manager_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_subscriptions_manager_lab@sit" group="Real Wave SIT | Lab" uuid="0ac84a45-0151-408f-b0ab-7925ec4f122e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_subscriptions_manager_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_sales_manager_lab@sit" group="Real Wave SIT | Lab" uuid="7dabfe44-bc82-4fdd-996b-a8d75cb201d6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_sales_manager_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_plm_lab@sit" group="Real Wave SIT | Lab" uuid="ae67ed4b-d7d6-4813-84c9-88828b3d61c4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_plm_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_ptm_lab@sit" group="Real Wave SIT | Lab" uuid="8e5cc7ee-1752-4c5f-890d-e12d7cd72036">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_ptm_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_payments_command_lab@sit" group="Real Wave SIT | Lab" uuid="d818098e-474a-41b6-8461-3f09bf57c863">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_payments_command_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_ns_application_lab@sit" group="Real Wave SIT | Lab" uuid="9a87f735-44d1-4b72-acee-065fe8775a3a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_ns_application_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_mgm_lab@sit" group="Real Wave SIT | Lab" uuid="69d9fa8a-8132-42c3-aadf-477079c2aa7c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_mgm_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_claro_extensions_lab@sit" group="Enviroment SIT | Lab" uuid="c99962f3-a2da-4ff5-b6e1-f0fb6d4186ea">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://extensions-realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_claro_extensions_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_customer_inventory_lab@sit" group="Real Wave SIT | Lab" uuid="2cbf7479-fba5-44e0-a77a-ce82189ccb31">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_customer_inventory_lab?sslmode=disable</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_som_lab@sit" group="Real Wave SIT | Lab" uuid="31f9797b-994d-4736-9932-087989a3f28f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-fullfillment.realwave.dev.zup.corp:5432/rw_som_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_iam_lab@sit" group="Real Wave SIT | Lab" uuid="04c7daca-25f5-4707-a443-4398d63234c6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_iam_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_crm_lab@sit" group="Real Wave SIT | Lab" uuid="79e4f275-834c-4bc0-aa5d-0223091892c9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_crm_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_coupon_lab@sit" group="Real Wave SIT | Lab" uuid="8acf48d9-6d6f-442d-b6f5-8cb871c7fbd0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_coupon_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_campaign_message_manager_lab@sit" group="Real Wave SIT | Lab" uuid="fb7c6286-8ed4-4ae8-95b4-4f2c4f3c62ce">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_campaign_message_manager_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_customer_lab@sit" group="Real Wave SIT | Lab" uuid="9b1eacd7-533c-4926-8795-ebe29ae7bcb3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_customer_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_com_lab@sit" group="Real Wave SIT | Lab" uuid="e16c22ea-c8d2-4bbc-b86c-bb684cb9033c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_com_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_catalog_manager_lab@sit" group="Real Wave SIT | Lab" uuid="ab881d71-d64e-4762-bb5a-3b52bb7c63cc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_catalog_manager_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_boleto_command_lab@sit" group="Real Wave SIT | Lab" uuid="e9a6d8b2-e343-4464-bf82-4112e411f72b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://extensions-realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_boleto_command_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_account_cash_lab@sit" group="Real Wave SIT | Lab" uuid="732831d2-e066-4875-99af-ca307d6c986b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_account_cash_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="claro_flex_extensions_lab@sit" group="Flex Extensions SIT | Lab" uuid="471618ef-d8aa-4376-b93f-87d9c96d6b79">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://extensions-realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/claro_flex_extensions_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="rw_catalog_manager_lab@realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com" uuid="3f7fd44a-2e57-4aac-b110-446ad914b7a2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://realwave-sit-claro.crjyf1p4r4ip.sa-east-1.rds.amazonaws.com:5432/rw_catalog_manager_lab</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
